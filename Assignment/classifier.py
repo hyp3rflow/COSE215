@@ -26,13 +26,6 @@ def Email_find(text):
 
 
 if __name__ == "__main__":
-    '''
-    while True:
-        data = input()
-
-        print(SSN_find(data))
-    '''
-
     f = open('./Assignment/classifier_IO.txt')
     data = f.read()
 
